@@ -1,0 +1,7 @@
+# https://qiita.com/shunyooo/items/69c3523a8c500b37f33f
+
+PYTHONIOENCODING = 'utf-8'
+LANG=ja_JP.UTF-8
+MAILTO = ""
+
+0 7 * * * python3 /Users/syunyo/Desktop/MyDev/python_dev/scraping_ML_DL/Section2/2-5\ everyday-kawase.py
